@@ -14,7 +14,7 @@ You need to help Unicorn ventures with the decision. They usually invest in B2C 
 Datetime - Date and time of the day \
 Count - Count of the vehicle
 
-**Download link:** https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/
+
 
 # Libraries
 
